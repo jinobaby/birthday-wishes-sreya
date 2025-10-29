@@ -14,7 +14,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/046acdbd-05e4-41ee-85c4-7ffdb73b1fdb.jpg"
+          src="./images/046acdbd-05e4-41ee-85c4-7ffdb73b1fdb.jpg"
           alt="Sreya and friend outdoors"
           position="center"
           delay={0.2}
@@ -27,7 +27,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/4260cf37-1c1e-46d4-864a-c5dd32bf4571.jpg"
+          src="./images/4260cf37-1c1e-46d4-864a-c5dd32bf4571.jpg"
           alt="Sreya and friend at college"
           position="right"
           delay={0.2}
@@ -40,7 +40,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/52d06674-2106-4034-aeab-0f44a056be48.jpg"
+          src="./images/52d06674-2106-4034-aeab-0f44a056be48.jpg"
           alt="Sreya at graduation"
           position="left"
           delay={0.2}
@@ -53,7 +53,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/5d1d7729-0390-46fb-8220-9b73e77f5765.jpg"
+          src="./images/5d1d7729-0390-46fb-8220-9b73e77f5765.jpg"
           alt="Sreya and friend close moment"
           position="center"
           delay={0.2}
@@ -66,7 +66,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/834dffce-a38a-4fb9-87ab-77f713af9c41.jpg"
+          src="./images/834dffce-a38a-4fb9-87ab-77f713af9c41.jpg"
           alt="Sreya with sunflower"
           position="right"
           delay={0.2}
@@ -79,7 +79,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/89651681-7d4e-4351-bd07-aae75502f358.jpg"
+          src="./images/89651681-7d4e-4351-bd07-aae75502f358.jpg"
           alt="Beautiful flowers"
           position="left"
           delay={0.2}
@@ -96,7 +96,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/98d9508e-5f57-4482-aa18-39bc31e80931.jpg"
+          src="./images/98d9508e-5f57-4482-aa18-39bc31e80931.jpg"
           alt="Sreya and friend happy moment"
           position="center"
           delay={0.2}
@@ -110,7 +110,7 @@ const MessageSection = () => {
         </AnimatedText>
 
         <PhotoFrame
-          src="/images/a8f209db-d9d2-46ef-b80a-a57565027bbd.jpg"
+          src="./images/a8f209db-d9d2-46ef-b80a-a57565027bbd.jpg"
           alt="Sreya and friend together"
           position="center"
           delay={0.2}
