@@ -1,0 +1,43 @@
+🎵 AUDIO FILE INSTRUCTIONS
+==========================
+
+Please add your background music file to this folder with this exact name:
+
+📁 background-music.mp3
+
+SUPPORTED FORMATS:
+- .mp3 (recommended - best compatibility)
+- .wav (high quality but large file size)
+- .ogg (good alternative)
+
+RECOMMENDATIONS:
+- File size: Keep under 5MB for faster loading
+- Duration: 2-4 minutes works well for looping
+- Volume: Make sure it's not too loud
+- Romantic/soft instrumental music works best
+- Copyright: Use royalty-free music or music you have rights to
+
+POPULAR CHOICES:
+- Soft piano melodies
+- Acoustic guitar instrumentals
+- Lo-fi romantic beats
+- Classical romantic pieces
+
+WHERE TO FIND ROYALTY-FREE MUSIC:
+- YouTube Audio Library (free)
+- Pixabay Music (free)
+- Bensound (free with attribution)
+- Incompetech (free with attribution)
+
+After adding the file:
+1. Make sure it's named exactly: background-music.mp3
+2. Delete this INSTRUCTIONS.txt file
+3. Run: npm run deploy
+4. The music will play with a play/pause button on the website
+
+The audio player features:
+✓ Play/Pause button
+✓ Automatic looping
+✓ Fixed position (bottom-right corner)
+✓ Beautiful gradient button matching your theme
+✓ Mobile responsive
