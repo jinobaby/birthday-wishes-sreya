@@ -1,0 +1,28 @@
+.animated-text {
+  margin: 2rem 0;
+}
+
+.animated-text p {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  line-height: 1.8;
+  color: #5a4766;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.animated-text em {
+  font-style: italic;
+  color: #b085c7;
+}
+
+.animated-text strong {
+  font-weight: 600;
+  color: #8b5fa8;
+}
+
+@media (max-width: 768px) {
+  .animated-text p {
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
+  }
+}
